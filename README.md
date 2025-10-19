@@ -1,1 +1,2 @@
 # Electiva
+parcial segunodo corte .
