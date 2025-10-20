@@ -122,7 +122,7 @@ function mostrarMenu() {
             break;
         case "4":
         console.log("rograma finalizado");
-        rl.close();
+        entrada.close();
             break;
             default:
         console.log("opción inválida");
