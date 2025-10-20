@@ -48,7 +48,7 @@ function agregarLibro() {
 }
 
 function listarLibros() {
-  if (biblioteca.length=== 0) {
+  if (almacenar.length=== 0) {
     console.log("no hay libros registrados");
   } else {
     console.log("\nlista de libros: ");
