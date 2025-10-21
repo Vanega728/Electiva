@@ -1,2 +1,2 @@
 # Electiva
-parcial segunodo corte .
+parcial segundo corte .
